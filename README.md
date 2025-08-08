@@ -21,5 +21,5 @@ A modern, responsive, and bilingual web application for viewing the Cattle Comfo
   - Unit toggle (°F / °C)
   - Language toggle (English / Español)
 
-### Interactive Map (Planned)
+### Interactive Map
 - Clickable markers for station selection
